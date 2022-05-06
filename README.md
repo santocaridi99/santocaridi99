@@ -4,13 +4,13 @@
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, my name is Santo!</h1>
 
-## About Me
+## About Me:
 
-- 🔭 I’m a **Junior Full Stack  Web Developer**
+-  I’m a **Junior Full Stack  Web Developer**
 
-- 🐣 I've learned **HTML - CSS - JAVASCRIPT - PHP - MySQL and SQL - LARAVEL - VUEJS - SCSS - Java**
+-  I've learned **HTML - CSS - JAVASCRIPT - PHP - MySQL and SQL - LARAVEL - VUEJS - SCSS - Java**
 
-## Languages & Technologies that I have already approached:
+## Skills:
 
 <p align="left"> 
     <a href="#" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" width="48px"/> </a> 
