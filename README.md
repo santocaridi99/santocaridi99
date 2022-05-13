@@ -3,13 +3,14 @@
 </p>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, my name is Santo!</h1>
+                                                                                                                                                                                                       
 
 ## About Me:
 
 -  I’m a **Junior Full Stack  Web Developer**
 
 -  I've learned **HTML - CSS - JAVASCRIPT - PHP - MySQL and SQL - LARAVEL - VUEJS - SCSS - Java**
-
+-  Now i'm learning **C# - .Net**
 ## Skills:
 
 <p align="left"> 
