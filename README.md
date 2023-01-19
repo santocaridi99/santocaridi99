@@ -7,7 +7,7 @@
 
 ## About Me:
 
--  I’m a **Junior Full Stack  Web Developer**
+-  I’m a **Software Developer**
 
 -  I've learned **HTML - CSS - JAVASCRIPT - PHP - MySQL and SQL - LARAVEL - VUEJS - SCSS - Java - C# - DotNet - Microsoft SQL server**
 
