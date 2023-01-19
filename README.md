@@ -7,11 +7,12 @@
 
 ## About Me:
 
--  I’m a **Software Developer**
+-  I’m a **Software Developer(.NET)**
 
 -  I've learned **HTML - CSS - JAVASCRIPT - PHP - MySQL and SQL - LARAVEL - VUEJS - SCSS - Java - C# - DotNet - Microsoft SQL server**
-
+                                                                                                                         
 - IDE: **Visual studio Code - Visual studio 2022 - Eclipse**
+- Working in .NET Ecosystem                                                                                                                        
 ## Skills:
 
 <p align="left"> 
